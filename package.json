@@ -1,5 +1,5 @@
 {
-  "name": "damp-random-messages",
+  "name": "damp1-random-messages",
   "version": "1.0.0",
   "description": "mensajes aleatorios",
   "main": "src/index.js",
@@ -14,8 +14,9 @@
   "author": "Daniel Mendez <dmendezp@live.com.mx>",
   "license": "MIT",
   "bin": {
-    "damp-random-messages": "bin/global.js"
+    "damp1-random-messages": "bin/global.js"
   },
+  "preferGlobal": true,
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dampDev/damp-random-messages.git"

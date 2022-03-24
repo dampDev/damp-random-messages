@@ -6,7 +6,7 @@ const messages = [
     "wilbert",
     "susana",
     "maira",
-    "berbardito",
+    "omar",
     "amairani"
 ];
 
