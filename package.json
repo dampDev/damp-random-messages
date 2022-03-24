@@ -12,5 +12,16 @@
     "npm"
   ],
   "author": "Daniel Mendez <dmendezp@live.com.mx>",
-  "license": "MIT"
+  "license": "MIT",
+  "bin": {
+    "damp-random-messages": "bin/global.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dampDev/damp-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dampDev/damp-random-messages/issues"
+  },
+  "homepage": "https://github.com/dampDev/damp-random-messages#readme"
 }
